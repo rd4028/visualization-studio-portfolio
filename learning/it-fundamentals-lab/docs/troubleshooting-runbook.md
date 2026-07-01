@@ -27,9 +27,9 @@ A user says they cannot access the public portfolio site.
 ## PowerShell Commands
 
 ```powershell
-Resolve-DnsName github.com
-Test-NetConnection github.com -Port 443
-Invoke-WebRequest https://github.com/rd4028/visualization-studio-portfolio -Method Head
+Resolve-DnsName rd4028.github.io
+Test-NetConnection rd4028.github.io -Port 443
+Invoke-WebRequest https://rd4028.github.io/visualization-studio-portfolio/ -Method Head
 ```
 
 ## Common Findings
@@ -62,4 +62,3 @@ Record:
 - Results observed
 - Likely cause
 - Action taken or escalation path
-

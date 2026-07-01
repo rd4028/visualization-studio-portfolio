@@ -6,6 +6,8 @@ This mini project turns my cloud, cybersecurity, and networking self-learning in
 
 The project uses a small static website as the system under review, then documents how I would deploy, secure, test, troubleshoot, and explain that system in a business environment.
 
+Live site: https://rd4028.github.io/visualization-studio-portfolio/
+
 ## What This Demonstrates
 
 | Area | Practical Evidence |
@@ -60,4 +62,4 @@ flowchart LR
 
 ## Status
 
-Completed as a GitHub-hosted mini project. The AWS S3 deployment pathway is documented as an extension task because this version avoids claiming cloud infrastructure that has not been provisioned in my AWS account.
+Completed as a GitHub-hosted mini project with a live GitHub Pages deployment. The AWS S3 deployment pathway is documented as an extension task because this version avoids claiming cloud infrastructure that has not been provisioned in my AWS account.

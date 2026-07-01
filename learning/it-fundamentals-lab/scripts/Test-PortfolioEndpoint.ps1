@@ -1,6 +1,6 @@
 param(
     [Parameter(Mandatory = $false)]
-    [string]$Url = "https://github.com/rd4028/visualization-studio-portfolio"
+    [string]$Url = "https://rd4028.github.io/visualization-studio-portfolio/"
 )
 
 $uri = [Uri]$Url

@@ -27,7 +27,8 @@ Mini project connecting cloud, cybersecurity, and networking self-learning to a 
 The project uses a small static site as the system under review and documents how I would deploy, secure, test, troubleshoot, and explain it in a business environment.
 
 - [Project case study](learning/it-fundamentals-lab/README.md)
-- [Static site](learning/it-fundamentals-lab/site/index.html)
+- [Live static site](https://rd4028.github.io/visualization-studio-portfolio/)
+- [Static site source](learning/it-fundamentals-lab/site/index.html)
 - [Architecture notes](learning/it-fundamentals-lab/docs/architecture.md)
 - [Security review](learning/it-fundamentals-lab/docs/security-review.md)
 - [Troubleshooting runbook](learning/it-fundamentals-lab/docs/troubleshooting-runbook.md)

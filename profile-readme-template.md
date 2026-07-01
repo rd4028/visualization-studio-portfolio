@@ -12,7 +12,7 @@ I am a final-year Bachelor of Information Systems student at the University of T
 
 - [Visualization Studio Portfolio](https://github.com/rd4028/visualization-studio-portfolio)
 - [Microplastics In Australian Coastlines](https://github.com/rd4028/visualization-studio-portfolio/tree/main/projects/microplastics-analysis)
-- [IT Fundamentals Lab](https://github.com/rd4028/visualization-studio-portfolio/tree/main/learning/it-fundamentals-lab)
+- [IT Fundamentals Lab](https://rd4028.github.io/visualization-studio-portfolio/)
 - [Cloud Fundamentals](https://github.com/rd4028/visualization-studio-portfolio/tree/main/learning/cloud-fundamentals)
 - [Cybersecurity Fundamentals](https://github.com/rd4028/visualization-studio-portfolio/tree/main/learning/cybersecurity-fundamentals)
 - [Networking Fundamentals](https://github.com/rd4028/visualization-studio-portfolio/tree/main/learning/networking-fundamentals)

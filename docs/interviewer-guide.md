@@ -8,7 +8,7 @@ This repository maps directly to the project and self-learning sections of my re
 2. Review [Key Insights](../projects/microplastics-analysis/insights.md) for findings and recommendations from my Australian Government stakeholder section.
 3. Review [Methodology](../projects/microplastics-analysis/methodology.md) for data preparation, visualisation choices, and calculated fields.
 4. Open the [Tableau workbooks](../projects/microplastics-analysis/artifacts/tableau-workbooks/) to inspect the editable project files.
-5. Review [IT Fundamentals Lab](../learning/it-fundamentals-lab/README.md) for applied cloud, cybersecurity, networking, and troubleshooting practice.
+5. Review [IT Fundamentals Lab](../learning/it-fundamentals-lab/README.md) for applied cloud, cybersecurity, networking, and troubleshooting practice. The live site is available at https://rd4028.github.io/visualization-studio-portfolio/.
 6. Review [Privacy And Attribution](privacy-and-attribution.md) for group project context.
 
 ## Resume Mapping

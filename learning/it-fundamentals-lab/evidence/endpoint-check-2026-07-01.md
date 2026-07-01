@@ -1,23 +1,26 @@
 # Endpoint Check Evidence
 
 Date: 2026-07-01  
-Target URL: https://github.com/rd4028/visualization-studio-portfolio  
+Target URL: https://rd4028.github.io/visualization-studio-portfolio/  
 Environment: Windows PowerShell
 
 ## DNS Result
 
-`github.com` resolved successfully.
+`rd4028.github.io` resolved successfully.
 
-Observed address:
+Observed addresses:
 
 ```text
-github.com 4.237.22.38
+rd4028.github.io 185.199.111.153
+rd4028.github.io 185.199.108.153
+rd4028.github.io 185.199.110.153
+rd4028.github.io 185.199.109.153
 ```
 
 ## TCP 443 Result
 
 ```text
-ComputerName: github.com
+ComputerName: rd4028.github.io
 RemotePort: 443
 TcpTestSucceeded: True
 ```
@@ -27,11 +30,10 @@ TcpTestSucceeded: True
 ```text
 StatusCode: 200
 StatusDescription: OK
-ResponseTimeMs: 82
-Server: github.com
+ResponseTimeMs: 93
+Server: GitHub.com
 ```
 
 ## Interpretation
 
-The portfolio endpoint was reachable over HTTPS. DNS resolution, TCP connectivity, and HTTP response checks all supported normal access at the time of testing.
-
+The live mini project site was reachable over HTTPS. DNS resolution, TCP connectivity, and HTTP response checks all supported normal access at the time of testing.
