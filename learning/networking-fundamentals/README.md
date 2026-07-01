@@ -1,5 +1,7 @@
 # Networking Fundamentals
 
+Applied mini project: [IT Fundamentals Lab](../it-fundamentals-lab/README.md)
+
 ## Learning Focus
 
 This section documents my self-learning in networking fundamentals, including how devices communicate, how web requests work, and how basic troubleshooting is approached.
@@ -45,4 +47,3 @@ tracert example.com
 ## Reflection
 
 Networking fundamentals are helping me build a stronger foundation for IT support, cloud, cybersecurity, and operations roles.
-

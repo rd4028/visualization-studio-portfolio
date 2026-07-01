@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>IT Fundamentals Lab</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">Cloud, Security And Networking</p>
+        <h1>IT Fundamentals Lab</h1>
+      </div>
+      <a class="repo-link" href="https://github.com/rd4028/visualization-studio-portfolio">GitHub Repo</a>
+    </header>
+
+    <main>
+      <section class="summary">
+        <div>
+          <h2>Operational Scenario</h2>
+          <p>
+            A public static site needs to be published, checked, and documented so another support analyst can understand how users reach it and what controls protect it.
+          </p>
+        </div>
+        <dl class="metrics">
+          <div>
+            <dt>Protocol</dt>
+            <dd>HTTPS</dd>
+          </div>
+          <div>
+            <dt>Port</dt>
+            <dd>443</dd>
+          </div>
+          <div>
+            <dt>Data Risk</dt>
+            <dd>Low</dd>
+          </div>
+        </dl>
+      </section>
+
+      <section class="flow">
+        <h2>Request Path</h2>
+        <div class="flow-grid" aria-label="Website request path">
+          <div class="flow-node">User Browser</div>
+          <div class="flow-line"></div>
+          <div class="flow-node">DNS Lookup</div>
+          <div class="flow-line"></div>
+          <div class="flow-node">HTTPS 443</div>
+          <div class="flow-line"></div>
+          <div class="flow-node">Static Host</div>
+          <div class="flow-line"></div>
+          <div class="flow-node">Site Files</div>
+        </div>
+      </section>
+
+      <section class="panels">
+        <article>
+          <h2>Security Controls</h2>
+          <ul class="checklist">
+            <li><span>Pass</span>No passwords, keys, or private files committed</li>
+            <li><span>Pass</span>Public content reviewed before publishing</li>
+            <li><span>Pass</span>HTTPS expected for public access</li>
+            <li><span>Pass</span>Full group report excluded for privacy</li>
+          </ul>
+        </article>
+
+        <article>
+          <h2>Troubleshooting Steps</h2>
+          <ol>
+            <li>Confirm the URL and user scope.</li>
+            <li>Resolve DNS for the host.</li>
+            <li>Test TCP connectivity on port 443.</li>
+            <li>Check HTTP status and response time.</li>
+            <li>Review recent repository or deployment changes.</li>
+          </ol>
+        </article>
+      </section>
+
+      <section class="command">
+        <div>
+          <h2>Endpoint Check</h2>
+          <p>PowerShell evidence command included in the repository.</p>
+        </div>
+        <pre><code>.\scripts\Test-PortfolioEndpoint.ps1 -Url https://github.com/rd4028/visualization-studio-portfolio</code></pre>
+      </section>
+
+      <section class="controls">
+        <h2>Security Review Simulator</h2>
+        <form id="review-form">
+          <label><input type="checkbox" checked data-weight="25"> Secrets excluded</label>
+          <label><input type="checkbox" checked data-weight="25"> Public files reviewed</label>
+          <label><input type="checkbox" checked data-weight="25"> HTTPS endpoint tested</label>
+          <label><input type="checkbox" checked data-weight="25"> Privacy notes documented</label>
+        </form>
+        <div class="score">
+          <span id="score-value">100</span>
+          <span>readiness score</span>
+        </div>
+      </section>
+    </main>
+
+    <script src="app.js"></script>
+  </body>
+</html>
+

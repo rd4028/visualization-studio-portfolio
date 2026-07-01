@@ -18,3 +18,4 @@ The Microplastics Analysis project now includes real project evidence: Tableau p
 - Add a short demo video or GIF showing the workbook interaction.
 - Add any course mark, feedback, or non-sensitive assessment result if you are comfortable sharing it.
 - Add cloud, cybersecurity, or networking certificates/screenshots when available.
+- Add live endpoint evidence for the IT Fundamentals Lab after GitHub Pages finishes publishing.

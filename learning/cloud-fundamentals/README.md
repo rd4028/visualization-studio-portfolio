@@ -1,5 +1,7 @@
 # Cloud Fundamentals
 
+Applied mini project: [IT Fundamentals Lab](../it-fundamentals-lab/README.md)
+
 ## Learning Focus
 
 This section documents my self-learning in cloud computing fundamentals, with a focus on AWS concepts relevant to IT operations and support roles.
@@ -33,4 +35,3 @@ Amazon S3 provides object storage for files, backups, static assets, logs, and d
 ## Reflection
 
 Cloud learning is helping me understand how IT teams provision, secure, monitor, and support infrastructure in a business environment.
-

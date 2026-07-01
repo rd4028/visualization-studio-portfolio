@@ -1,5 +1,7 @@
 # Cybersecurity Fundamentals
 
+Applied mini project: [IT Fundamentals Lab](../it-fundamentals-lab/README.md)
+
 ## Learning Focus
 
 This section documents my self-learning in cybersecurity fundamentals, including web application risks, authentication concepts, data privacy, and operational security controls.
@@ -39,4 +41,3 @@ Authentication verifies who a user is. Authorisation controls what that user can
 ## Reflection
 
 Cybersecurity learning is helping me understand how technical controls, user behaviour, and business processes work together to reduce risk.
-
