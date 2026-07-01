@@ -7,9 +7,9 @@
 - Visibility: Public
 - URL: https://github.com/rd4028/visualization-studio-portfolio
 
-## Before Publishing Publicly
+## Public Sharing Status
 
-This repository includes Tableau packaged workbooks with embedded class project data. Before making the repository public, confirm that the data can be shared externally. If unsure, publish the repository as private or remove the `.twbx` files before making it public.
+This repository includes Tableau packaged workbooks with embedded project data. The workbook data has been approved for public sharing because it comes from trusted public sources.
 
 The full group report is not included because it contains other students' identifying details.
 

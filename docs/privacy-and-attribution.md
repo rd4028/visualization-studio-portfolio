@@ -24,5 +24,4 @@ The full group report includes other students' names and student IDs. To keep th
 
 ## Public Repository Check
 
-Before making the repository public, confirm that the embedded workbook datasets can be shared externally. If dataset sharing is not allowed, keep the repository private or remove the `.twbx` files before publishing.
-
+The embedded workbook datasets have been approved for public sharing because they come from trusted public sources. The full group report remains excluded to protect other students' identifying details.
